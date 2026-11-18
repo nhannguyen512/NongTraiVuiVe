@@ -1,0 +1,6 @@
+{
+  "name": "Vương Quốc Cửu Chương 3D",
+  "description": "Game nông trại 3D cartoon giúp bé lớp 3 đến lớp 5 học bảng cửu chương 2 đến 9 qua thu thập vật phẩm, nuôi thú cưng lên cấp mở khóa kỹ năng, trang trí nông trại ao suối và thi đấu trực tuyến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

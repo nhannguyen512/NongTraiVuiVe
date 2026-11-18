@@ -1,0 +1,140 @@
+{
+  "profiles": {
+    "player_mwlgivus_icnl": {
+      "id": "player_mwlgivus_icnl",
+      "name": "Nhật Anh",
+      "avatarColor": "#F97316",
+      "coins": 183,
+      "gems": 5,
+      "tickets": 3,
+      "totalScore": 105,
+      "bestStreak": 3,
+      "totalSolved": 3,
+      "activePetId": "rabbit",
+      "pets": {
+        "rabbit": {
+          "petId": "rabbit",
+          "unlocked": true,
+          "level": 1,
+          "exp": 54,
+          "lastFedDate": ""
+        },
+        "fox": {
+          "petId": "fox",
+          "unlocked": false,
+          "level": 1,
+          "exp": 0,
+          "lastFedDate": ""
+        },
+        "turtle": {
+          "petId": "turtle",
+          "unlocked": false,
+          "level": 1,
+          "exp": 0,
+          "lastFedDate": ""
+        },
+        "rainbow_beetle": {
+          "petId": "rainbow_beetle",
+          "unlocked": false,
+          "level": 1,
+          "exp": 0,
+          "lastFedDate": ""
+        },
+        "moon_moth": {
+          "petId": "moon_moth",
+          "unlocked": false,
+          "level": 1,
+          "exp": 0,
+          "lastFedDate": ""
+        },
+        "crystal_dragonfly": {
+          "petId": "crystal_dragonfly",
+          "unlocked": false,
+          "level": 1,
+          "exp": 0,
+          "lastFedDate": ""
+        },
+        "koi_fish": {
+          "petId": "koi_fish",
+          "unlocked": false,
+          "level": 1,
+          "exp": 0,
+          "lastFedDate": ""
+        },
+        "jade_frog": {
+          "petId": "jade_frog",
+          "unlocked": false,
+          "level": 1,
+          "exp": 0,
+          "lastFedDate": ""
+        }
+      },
+      "decoInventory": {
+        "wooden_fence": 2,
+        "sunflower_patch": 1
+      },
+      "foodInventory": {
+        "golden_carrot": 2,
+        "nectar_drop": 1
+      },
+      "placedDecorations": [
+        {
+          "instanceId": "starter_tree_1",
+          "decoId": "apple_tree",
+          "gridX": -6,
+          "gridZ": -6,
+          "rotation": 0
+        },
+        {
+          "instanceId": "starter_sun_1",
+          "decoId": "sunflower_patch",
+          "gridX": -4,
+          "gridZ": 4,
+          "rotation": 0
+        },
+        {
+          "instanceId": "starter_bridge_1",
+          "decoId": "wooden_bridge",
+          "gridX": 4,
+          "gridZ": 0,
+          "rotation": 0
+        },
+        {
+          "instanceId": "starter_lotus_1",
+          "decoId": "lotus_lantern",
+          "gridX": 7,
+          "gridZ": 5,
+          "rotation": 0
+        },
+        {
+          "instanceId": "starter_fence_1",
+          "decoId": "wooden_fence",
+          "gridX": -7,
+          "gridZ": -2,
+          "rotation": 1
+        }
+      ],
+      "dailyGiftStreak": 0,
+      "lastGiftDate": "",
+      "dailyDate": "2026-11-18",
+      "dailyChallenges": [
+        {
+          "challengeId": "daily_table_2026-11-18",
+          "progress": 3,
+          "claimed": false
+        },
+        {
+          "challengeId": "daily_streak_2026-11-18",
+          "progress": 3,
+          "claimed": false
+        },
+        {
+          "challengeId": "daily_collect_2026-11-18",
+          "progress": 3,
+          "claimed": false
+        }
+      ],
+      "updatedAt": 1794966501665
+    }
+  }
+}
